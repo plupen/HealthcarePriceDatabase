@@ -16,22 +16,38 @@ This is not my job. I don't want to make money doing this, but I would like to u
 So consider this an opening salvo, with three main areas:
 
 1. Construction
-  a) Defining the classification of the data (Doctor, provider, price, type of price [e.g. quote or actual charge], date of price, etc)
-	b) Creating a durable, efficient database structure, and the tools for updating it
-	c) Creating the two main prongs of the web interface -- data entry and data queries
-	d) A viable, scalable, low-or-no-cost hosting situation with robust security and backup features
+
+a) Defining the classification of the data (Doctor, provider, price, type of price [e.g. quote or actual charge], date of price, etc)
+
+b) Creating a durable, efficient database structure, and the tools for updating it
+
+c) Creating the two main prongs of the web interface -- data entry and data queries
+
+d) A viable, scalable, low-or-no-cost hosting situation with robust security and backup features
+
 2. Collection
-	a) Volunteer price data collection -- cold calls to healthcare providers in your geographic area. 
-	b) User-submitted bills. How about the best app or gui to smudge out your personal identifying info on actual bills? Or a web-form that can handle the traffic, that doesn't seem like it's mining your personal info?
-	c) etc. There are myriad ways to do this. Let's get the best of all of them.
-	d) Methods of cross-referencing, verifying and generally keeping data from corrupting before they are queryable.
-	e) A sidebar: Delving into operating costs for machinery, constitution of tests, 
+
+a) Volunteer price data collection -- cold calls to healthcare providers in your geographic area. 
+
+b) User-submitted bills. How about the best app or gui to smudge out your personal identifying info on actual bills? Or a web-form that can handle the traffic, that doesn't seem like it's mining your personal info?
+
+c) etc. There are myriad ways to do this. Let's get the best of all of them.
+
+d) Methods of cross-referencing, verifying and generally keeping data from corrupting before they are queryable.
+
+e) A sidebar: Delving into operating costs for machinery, constitution of tests, 
+
 3. Branding and Partnership
-	a) What's it look like? What's it called? Could it be so bland as to bely trademarking? The last thing we need is another bizarre startup name like CoffUp or Blurkzee to blend in to the crowd. The best websites that keep a foothold are sparse, focusing on the tool, not the look, right? I'm thinking mostly Craigslist here.
-	b) Could this be funded through a grant? Should it be? Could this be a non-profit? Should it be? Structures and methods like those create hollows for corruption to take up residence, and layers of administration that can stifle efficiency and add a burden of duty separate from a burden of civic duty. Here goes: A civic duty is something I believe almost everyone longs to bear, but has little opportunity to do so. Who doesn't want to help others? It can be a spontaneous expression of humanity. This project should embody that notion, and therefore I don't think the whole project should be bound by that structure. But it could build on contributions of that sort. If you have a charity or foundation that can help out, that's huge. Ahem, discuss.
-	c) The travel piece is pretty well sewn up by now, right? Should this or could this tie into API's provided by sites like KAYAK et al?
-	d) A "real" procedure, i.e., one that requires skill, depends on a Doctor or Nurse's reputation also. Is there a potential partner or methodology for this?
-	e) Better minds than mine must evaluate the legal side of all of this.
+
+a) What's it look like? What's it called? Could it be so bland as to bely trademarking? The last thing we need is another bizarre startup name like CoffUp or Blurkzee to blend in to the crowd. The best websites that keep a foothold are sparse, focusing on the tool, not the look, right? I'm thinking mostly Craigslist here.
+
+b) Could this be funded through a grant? Should it be? Could this be a non-profit? Should it be? Structures and methods like those create hollows for corruption to take up residence, and layers of administration that can stifle efficiency and add a burden of duty separate from a burden of civic duty. Here goes: A civic duty is something I believe almost everyone longs to bear, but has little opportunity to do so. Who doesn't want to help others? It can be a spontaneous expression of humanity. This project should embody that notion, and therefore I don't think the whole project should be bound by that structure. But it could build on contributions of that sort. If you have a charity or foundation that can help out, that's huge. Ahem, discuss.
+
+c) The travel piece is pretty well sewn up by now, right? Should this or could this tie into API's provided by sites like KAYAK et al?
+
+d) A "real" procedure, i.e., one that requires skill, depends on a Doctor or Nurse's reputation also. Is there a potential partner or methodology for this?
+
+e) Better minds than mine must evaluate the legal side of all of this.
 
 It goes without saying that this should not infringe on patents, another argument for the bare-bones, web-based approach. Nor should this generate patents or intellectual copyright of any kind. This will be of enormous value to individuals, but also policymakers worldwide. Don't lock that up.
 
