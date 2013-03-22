@@ -15,7 +15,8 @@ This is not my job. I don't want to make money doing this, but I would like to u
 
 So consider this an opening salvo, with three main areas:
 
-1. Construction
+
+Construction
 
 a) Defining the classification of the data (Doctor, provider, price, type of price [e.g. quote or actual charge], date of price, etc)
 
@@ -25,7 +26,8 @@ c) Creating the two main prongs of the web interface -- data entry and data quer
 
 d) A viable, scalable, low-or-no-cost hosting situation with robust security and backup features
 
-2. Collection
+
+Collection
 
 a) Volunteer price data collection -- cold calls to healthcare providers in your geographic area. 
 
@@ -37,7 +39,8 @@ d) Methods of cross-referencing, verifying and generally keeping data from corru
 
 e) A sidebar: Delving into operating costs for machinery, constitution of tests, 
 
-3. Branding and Partnership
+
+Branding and Partnership
 
 a) What's it look like? What's it called? Could it be so bland as to bely trademarking? The last thing we need is another bizarre startup name like CoffUp or Blurkzee to blend in to the crowd. The best websites that keep a foothold are sparse, focusing on the tool, not the look, right? I'm thinking mostly Craigslist here.
 
