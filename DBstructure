@@ -1,0 +1,13 @@
+//ID tables for Doctors, Providers, Shells (hospitals and/or umbrella networks), Regions/Countries, Procedures.
+//Doctors: doctorID, doctorName, place of certification, providerID, #of confirmed procedures/diagnoses (a table-per?)
+//Providers: providerID, providerName, address, city, zipcode, state, country, regionID (TBD), more (does this warrant a table-per-provider?)
+//Shells: shellID, shellName, HQaddress, HQcity, HQzipcode, HQstate, HQcountry, regionID (TBD), more (again, a table-per?)
+//Regions: regionID, regionName, regionDescription, regionKWHcost, region
+//Procedures: procedureID, procedureName, procedureTypeID
+//ProcedureTypes: ID, procedureType, procedureSearch (key terms for finding a procedure)
+//ProcedureUnitsOfMeasure: (e.g., power consumption, insurance coefficient, equipment maintenance, equipment financing, etc) procedureUnitOfMeasure, procUnitDescription, regionalUnitFactor (a way to regionalize e.g. power consumption)
+//ProcedureBreakdown: (one table for each procedure to break down costs) procedureElement, procedureUnitOfMeasure, procUnitQty
+//(ProcedureBreakdown for an MRI could take into account staffing, maintenance, insurance, power consumption, etc.)
+
+//Union and index tables.
+//ProcedureID: (Union table for procedures quoted and performed) metaID, procedureID, procedureDate, quote (Yes/No), doctorID (can be null, as can: ), providerID, shellID, regionID, scannedBill (image or reference to image),notes (notes to evolve into meaningful categories)
